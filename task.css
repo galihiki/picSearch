@@ -1,0 +1,21 @@
+.routatingPics{
+    height: 10%;
+    width: 10%;
+}
+
+.bigPic{
+    height: 30%;
+    width: 30%;
+    margin:5% 0% 0% 30%;
+}
+#searchInput{
+    margin:1% 0% 0% 40%;
+}
+
+.myBtn{
+
+}
+
+#backBtn{
+    margin:1% 0% 0% 45%;
+}
